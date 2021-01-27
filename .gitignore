@@ -1,3 +1,5 @@
+# Even though this has already been done down in 'dependencies' gonna do it again
+node_modules
 # Logs
 logs
 *.log
